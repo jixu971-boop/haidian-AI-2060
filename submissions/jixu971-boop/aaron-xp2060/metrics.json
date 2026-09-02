@@ -582,6 +582,36 @@
       "assumptions": [
         "A-FONT-001"
       ]
+    },
+    "decision_gate_count": {
+      "status": "known",
+      "value": 7,
+      "unit": "count",
+      "source_files": [
+        "proposal.md",
+        "proposal.en.md",
+        "compliance_matrix.json"
+      ],
+      "formula": "count(G0..G6 decision gates)",
+      "confidence": "high",
+      "assumptions": [
+        "A-OPERATIONS-001"
+      ]
+    },
+    "implementation_decision_record_count": {
+      "status": "known",
+      "value": 13,
+      "unit": "count",
+      "source_files": [
+        "proposal.md",
+        "proposal.en.md",
+        "compliance_matrix.json"
+      ],
+      "formula": "count(P01..P09, E01..E04 mapped decision records)",
+      "confidence": "high",
+      "assumptions": [
+        "A-OPERATIONS-001"
+      ]
     }
   }
 }

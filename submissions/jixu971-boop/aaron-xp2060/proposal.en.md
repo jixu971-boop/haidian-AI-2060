@@ -95,6 +95,12 @@ The count [metric:industry_support_element_count] confirms coverage of eight mec
 
 The submission name is **Aaron-XP2060**, and the proposal name is **AI-RSI Future Nature–Human–Machine City**. Its identity uses an open XP form built from a green nature baseline, a warm human-judgement line, and a blue machine-version line. The open ends signal that the system remains revisable. The identity avoids Culture-specific terms, ship silhouettes, orbital habitats, publisher-cover composition, and institutional marks.
 
+### XP identity assets and application rules
+
+This revision adds an independent, editable XP mark. Green #2F7D55 denotes the prior constraint of natural budgets; warm #D17842 denotes human judgement, appeal, and approval; blue #2967B1 denotes machine versions and rollback interfaces; ink #172033 is reserved for type and outline. The mark keeps clear space equal to one endpoint diameter: it is never stretched, its three lines are never closed, its three responsibilities are never collapsed into one colour, and it is never paired with an institutional mark in a way that implies endorsement. The minimum application unit is “status - accountable person - date - source - AI/copyright disclosure - AI-off and accessible route.” It supports the four functional labels XP·OPEN, XP·TEST, XP·FORUM, and XP·FAILSAFE without asserting approval, sponsorship, or a confirmed operator.[source:AGENT-TASKBOOK] [source:CULTURE-PUBLISHER-ARCHIVE]
+
+![Aaron-XP2060 open XP mark: nature, human and machine lines with the seven decision gates](assets/figures/identity-decision-system-20260902.en.png)
+
 ## Overall Design Area: Urban Renewal and Regulatory-Plan-Level Urban Design
 
 The design order is nature first, public life second, machine systems last. Continuous blue-green space establishes minimum ecological connectivity and public access. Community, research, service, and living functions form three circuits around it. Machine infrastructure remains small, metered, and physically stoppable; no irreversible central control centre is proposed.[standard:MOHURD-URBAN-DESIGN-MEASURES] [depth:land_use_layout]
@@ -195,6 +201,12 @@ Nine project packages follow a public problem–small pilot–evidence review–
 | P09 | Public Version and Appeal Operations Desk | Scenario registry, appeals, stop records, and annual review template | Independent review, budget, accountability, and statutory roles |
 
 ### P01-P09 and annual-event implementation and operations matrix
+
+### Implementation readiness: seven decision gates instead of implied commitments
+
+To prevent unknown sponsors, permits, or budgets from being presented as settled, every P01-P09 / E01-E04 item is converted into the same decision packet. G0 confirms accountability and a non-retaliation appeal; G1 confirms site and rights; G2 identifies the professional-review and permit route; G3 approves a resource and decommissioning envelope; G4 checks data, copyright, and safety; G5 demonstrates a human equivalent and time-bounded pilot; G6 uses independent review to scale, revise, retire, or restore. The seven-gate count is [metric:decision_gate_count] and the 13-item mapping is [metric:implementation_decision_record_count]. These are decision conditions, not approvals, funding, or partnership commitments.[depth:renewal_project_list] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]
+
+Each gate leaves reviewable material rather than a verbal assurance: accountable owner and appeal route; site/restoration record; applicable specialist-review list; minimum resources and cost categories; version/right records; AI-off demonstration and stop drill; and independent review plus exit decision. A missing record defaults to “do not expand.” An S0 trigger immediately pauses the function, transfers control to people, preserves evidence, and enters G6. The complete project mapping and decision-packet fields are recorded in this proposal and its task-coverage matrix.[metric:implementation_operation_item_count] [depth:renewal_project_list]
 
 The matrix places projects, annual events, the developer community, and talent/enterprise conversion in one accountability chain. Every role is **suggested**, not an accepted assignment by a government body, institution, or company. Minimum resources are not an investment estimate. KPIs are operational definitions for accountable parties to approve before a pilot, not achieved performance. The proposed complaint protocol has two levels. Any **S0 event involving personal safety, fundamental rights, data leakage, unauthorized action, or ecological harm immediately pauses the affected function, transfers control to people, and preserves evidence**. An ordinary complaint should be acknowledged within one working day and receive an initial disposition within five working days; complex cases disclose the extension reason and owner. These are proposed internal service objectives, not statutory deadlines or government commitments.[source:NIST-AI-RMF] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK] [depth:phasing_implementation]
 

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+  <title id="title">Aaron-XP2060 identity mark</title><desc id="desc">An original, open XP mark composed of a green nature baseline, warm human judgement line and blue machine version line.</desc>
+  <rect width="960" height="480" rx="40" fill="#F8FAFC"/>
+  <path d="M136 116 L328 364 M328 116 L136 364" fill="none" stroke="#2F7D55" stroke-width="34" stroke-linecap="round"/>
+  <path d="M398 116 L480 218 L562 116 M480 218 L480 360" fill="none" stroke="#D17842" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M624 116 L798 116 L690 220 L810 364" fill="none" stroke="#2967B1" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="112" cy="116" r="13" fill="#2F7D55"/><circle cx="834" cy="364" r="13" fill="#2967B1"/>
+  <text x="120" y="432" fill="#172033" font-family="Arial, sans-serif" font-size="40" font-weight="700">AARON-XP2060</text>
+  <text x="500" y="432" fill="#4B5563" font-family="Arial, sans-serif" font-size="22">OPEN XP / NATURE · HUMAN · MACHINE</text>
+</svg>
